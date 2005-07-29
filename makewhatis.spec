@@ -8,7 +8,7 @@ Group:		Applications
 Source0:	http://twittner.host.sk/files/makewhatis/%{name}-%{version}.tar.gz
 # Source0-md5:	7da69f806cf5010d51b4b1d5f36a7ef6
 BuildRequires:	autoconf >= 2.59
-BuildRequires:	automake >= 1:1.9.5
+BuildRequires:	automake >= 1:1.9.4
 BuildRequires:	zlib-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
