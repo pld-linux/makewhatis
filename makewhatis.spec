@@ -1,12 +1,12 @@
 Summary:	makewhatis - FreeBSD C implementation, Linux port
 Summary(pl):	makewhatis - linuksowy port implementacji w C z FreeBSD
 Name:		makewhatis
-Version:	2005.07.09
+Version:	2005.08.02
 Release:	0.1
 License:	BSD
 Group:		Applications
 Source0:	http://twittner.host.sk/files/makewhatis/%{name}-%{version}.tar.gz
-# Source0-md5:	7da69f806cf5010d51b4b1d5f36a7ef6
+# Source0-md5:	5d21f332a2b79a9dcaf55f3f29c6d9e2
 BuildRequires:	autoconf >= 2.59
 BuildRequires:	automake >= 1:1.9.4
 BuildRequires:	zlib-devel
