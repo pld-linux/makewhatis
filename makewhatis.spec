@@ -1,5 +1,5 @@
 Summary:	makewhatis - FreeBSD C implementation, Linux port
-Summary(pl):	makewhatis - linuksowy port implementacji w C z FreeBSD
+Summary(pl.UTF-8):   makewhatis - linuksowy port implementacji w C z FreeBSD
 Name:		makewhatis
 Version:	2005.08.02
 Release:	0.1
@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 makewhatis - FreeBSD C implementation, Linux port.
 
-%description -l pl
+%description -l pl.UTF-8
 makewhatis - linuksowy port implementacji w C z FreeBSD.
 
 %prep
